@@ -1,0 +1,12 @@
+The math.min (x,y) method can be used to find the lowest value of x and y:
+
+Using system
+Namespace my application
+{
+Class program
+{
+Static void Main (string [ ] args)
+{
+Console.WriteLine (Math.Max(5,10));
+} } }
+OUTPUT:: 5
