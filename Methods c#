@@ -1,0 +1,19 @@
+Methods are used to perform certain actions, and they are also known as functions
+You can pass data, known as parameters into a method
+A method is a block of code which only runs when it is called.
+Why use methods? To reuse code: define the code once, and use it many times
+
+Class program
+{
+Static void MyMethod ( )
+{
+// code to be executed
+}
+}
+
+So the algorthm does a task. And methods, procedures and functions complete tasks. Void
+functions don’t return a value.
+Static
+‘’
+
+Myth
