@@ -1,0 +1,17 @@
+MATH.max (x,y)
+The Math.Max (x,y) method can be used to find the highest value of x and y:
+
+// Math.Max(5,10);
+
+Using system
+Namespace my application
+{
+Class program
+{
+Static void Main (string [ ] args)
+{
+Console.WriteLine (Math.Max(5,10));
+} } }
+
+Output :: 10
+Math.Max(x,y,z,w,) outputs the largest value
