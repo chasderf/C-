@@ -1,0 +1,11 @@
+We can add two strings together by using the
+• “+” symbol or by
+• “String name = string.Concat(firstName, LastName);”
+Console.writeLine(name)
+So whenever we want to mix two different strings together then we will have to string.concat
+String interpoloation:: it substitutes variables within a command line
+String first name
+..
+
+String name = $”My full name is: {FirstName} {LastName}”;
+Console.WriteLine(name);
