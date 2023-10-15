@@ -1,0 +1,8 @@
+\’ ‘ single quote
+\” “ double quote
+\\ \ backslash
+The sequence \” inserts a double quote in a string
+String txt = “We are the so-called \”Vikings\” from the north.”;
+\n new line
+\t tab
+\b backspace
