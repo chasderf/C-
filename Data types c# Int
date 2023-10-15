@@ -1,0 +1,14 @@
+Data types size q description
+
+Int 4 bytes stores whole numbers from -2, 245, 1232,2132,
+Long 8 Bytes Stores whole numbers from -9,
+223,23233,23322323,239239,
+Float 4 Bytes Fractional numbers. Sufficients for storing 6 to 7 decimal.
+digits
+Double 8 bytes stores fractional numbers. Sufficient for storing 15 decimal
+digits
+Bool 1 bit stores true or false values
+Char 2 bytes stores. Single character/letter, surrounded by single.
+quotes
+String 2 bytes per character stores. Sequence of characters, surrounded by
+double quotes
