@@ -1,0 +1,15 @@
+With method overflowing, multiple methods can have the same name with different parameters
+Int MyMethod (int x)
+Float MyMethod(float x)
+Double MyMethod(double x, double y)
+
+Static int PlusMethodInt (int x, int y)
+{
+Return x + y;
+}
+Static double PlusMethodDouble (double x, double y)
+{
+Return x + y;
+}
+
+So static is basically when the procedure isn’t an object, its a separate program/procedure
