@@ -1,0 +1,8 @@
+Mymethod( ) is the name of the method
+
+Static means that the method belongs to the program class and not an object of the program class.
+You will learn more about objects and how to access methods through objects later in this tutorial
+
+Void means that this class doesn’t return a value.
+
+So static means that the function is not an object and it is now part of a program class
