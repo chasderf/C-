@@ -1,0 +1,4 @@
+The math.abs(x) method returns the absolute (positive) value of x
+
+Math.Abs(-4.7);
+Output:: 4.7
