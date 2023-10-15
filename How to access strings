@@ -1,0 +1,2 @@
+String MyString = “Hello”;
+Console.writeline(myString[0]); //outputs H
